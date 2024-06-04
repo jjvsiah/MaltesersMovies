@@ -21,6 +21,7 @@ import HeaderTwo from './components/HeaderTwo.js'
 import Cast from './routes/cast/Cast.js'
 import SingleCast from './routes/single-cast/SingleCast.js'
 import NotFound from './routes/not-found/NotFound';
+import Footer from './components/Footer.js'
 
 const baseUrl = process.env.REACT_APP_BASE_URL;
 const apiKey = process.env.REACT_APP_API_KEY;
@@ -427,6 +428,7 @@ const App = () => {
         <Route path="/about" element={<About theme={theme} />} />
         <Route path="*" element={<NotFound />} />
       </Routes>
+      <Footer /> 
     </>
   )
 }

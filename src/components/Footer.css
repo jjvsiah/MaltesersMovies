@@ -1,0 +1,18 @@
+/* src/components/Footer.css */
+.footer {
+    background-color: transparent;
+    text-align: center;
+    padding: 10px;
+    position: relative;
+    width: 100%;
+    font-size: 14px;
+    color: #333;
+  }
+  
+  .footer-container {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+  }
+  
