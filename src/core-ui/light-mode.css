@@ -1,19 +1,35 @@
+.lightbody {
+    -ms-overflow-style: none; /* for Internet Explorer, Edge */
+    scrollbar-width: none; /* for Firefox */
+    overflow-y: scroll;
+    line-height: 1.5;
+    -webkit-font-smoothing: antialiased;
+    background-color: var(--dark-blue);
+    color: var(--whitesh);
+    font-family: var(--rubik-font);
+}
+.light .movie-item h3 {
+    color: #ff5733; /* Change to any color you prefer */
+}
+
+/* Ensure other elements remain styled as before */
 .light,
 .light .navigation-two {
-    background-color: white;
+    background: linear-gradient(to bottom, #ffffff, #e6e6e6);
     color: black;
 }
 
 .light .movies-pagination li a {
     color: black !important;
 }
+
 .light main {
     color: var(--black);
-    background-color: transparent;
+    background: linear-gradient(to bottom, #ffffff, #e6e6e6);
 }
 
 .light .all-movies {
-    background: transparent;
+    background: linear-gradient(to bottom, #ffffff, #e6e6e6);
 }
 
 .light .search-section input {
@@ -21,6 +37,7 @@
     background-color: white;
     border: 1px solid black;
 }
+
 .light .search-section input::placeholder {
     color: black;
 }
@@ -59,6 +76,7 @@
     backdrop-filter: blur(5px);
     color: black;
 }
+
 .light .sidebar .active {
     color: black;
 }
