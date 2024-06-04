@@ -12,7 +12,7 @@ const About = ({ theme }) => {
       className={`about ${theme}`}>
       <h2>About us</h2>
       <p>
-        Welcome to Movies Time, founded in 2023 with the goal of providing
+        Welcome to Malteser Movies, founded in 2023 with the goal of providing
         comprehensive information about all types of movies. We understand the
         passion and dedication of movie lovers and strive to keep our audience
         informed and up-to-date with the latest developments in the film

@@ -1,10 +1,10 @@
-# Movies Time
-Welcome to Movies Time! This project was created for movie enthusiasts to explore a vast collection of movie-related data from the MovieDB API. Designed with scratch using Framer Motion for awesome animations and CSS for an appealing user interface, this website offers an immersive cinematic experience.
+# Malteser Movies
+Welcome to Malteser Movies! This project was created for movie enthusiasts to explore a vast collection of movie-related data from the MovieDB API. Designed with scratch using Framer Motion for awesome animations and CSS for an appealing user interface, this website offers an immersive cinematic experience.
 
-![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-1.png?raw=true)
-![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-2.png?raw=true)
-![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-3.png?raw=true)
-![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-4.png?raw=true)
+![Malteser Movies](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-1.png?raw=true)
+![Malteser Movies](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-2.png?raw=true)
+![Malteser Movies](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-3.png?raw=true)
+![Malteser Movies](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-4.png?raw=true)
 
 ## Features
 
