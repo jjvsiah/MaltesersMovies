@@ -118,7 +118,7 @@ const Header = ({
             <a rel="noreferrer" target="_blank" href="https://ekaterine-mitagvaria.vercel.app/">
               <img src={WebIcon} alt='Vercel icon' className='web-icon' />
             </a>
-            <a rel="noreferrer" target="_blank" href="https://github.com/jjvsiah/movies-time">
+            <a rel="noreferrer" target="_blank" href="https://github.com/jjvsiah/MalteserMovies">
               <img src={GitLight} alt='Github icon' />
             </a>
             <a rel="noreferrer" target="_blank" href="https://developers.themoviedb.org/4/getting-started/authorization">

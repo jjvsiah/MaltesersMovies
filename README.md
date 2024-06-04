@@ -1,10 +1,10 @@
 # Movies Time
 Welcome to Movies Time! This project was created for movie enthusiasts to explore a vast collection of movie-related data from the MovieDB API. Designed with scratch using Framer Motion for awesome animations and CSS for an appealing user interface, this website offers an immersive cinematic experience.
 
-![Movies Time](https://github.com/jjvsiah/movies-time/blob/main/src/assets/images/project-previews/project-preview-1.png?raw=true)
-![Movies Time](https://github.com/jjvsiah/movies-time/blob/main/src/assets/images/project-previews/project-preview-2.png?raw=true)
-![Movies Time](https://github.com/jjvsiah/movies-time/blob/main/src/assets/images/project-previews/project-preview-3.png?raw=true)
-![Movies Time](https://github.com/jjvsiah/movies-time/blob/main/src/assets/images/project-previews/project-preview-4.png?raw=true)
+![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-1.png?raw=true)
+![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-2.png?raw=true)
+![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-3.png?raw=true)
+![Movies Time](https://github.com/jjvsiah/MalteserMovies/blob/main/src/assets/images/project-previews/project-preview-4.png?raw=true)
 
 ## Features
 
@@ -83,7 +83,7 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Contribution <a id="contribution"></a>
 
-This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me or submit an idea in the [discussions](https://github.com/jjvsiah/movies-time/discussions). Otherwise, you are free to fork this project and change it for your own purposes. 
+This project serves as a personal portfolio website to show off my personal skills. I do not accept any contributions like pull requests to this project however if you have any suggestions or ideas feel free to contact me or submit an idea in the [discussions](https://github.com/jjvsiah/MalteserMovies/discussions). Otherwise, you are free to fork this project and change it for your own purposes. 
 
 ## License  <a id="license"></a>
-This project is released under the MIT [LICENSE](https://github.com/jjvsiah/movies-time/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
+This project is released under the MIT [LICENSE](https://github.com/jjvsiah/MalteserMovies/blob/main/LICENSE). You can find the specific terms and conditions outlined in the LICENSE file. This means you're free to utilize, modify, and distribute the project according to the terms of the MIT License.
