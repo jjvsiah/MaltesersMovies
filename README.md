@@ -5,6 +5,7 @@ Welcome to Maltesers Movies! This project was created for movie enthusiasts to e
 ![Malteser Movies](https://github.com/jjvsiah/MaltesersMovies/blob/main/src/assets/images/project-previews/project-preview-2.png?raw=true)
 ![Malteser Movies](https://github.com/jjvsiah/MaltesersMovies/blob/main/src/assets/images/project-previews/project-preview-3.png?raw=true)
 ![Malteser Movies](https://github.com/jjvsiah/MaltesersMovies/blob/main/src/assets/images/project-previews/project-preview-4.png?raw=true)
+![Malteser Movies](https://github.com/jjvsiah/MaltesersMovies/blob/main/src/assets/images/project-previews/project-preview-5.png?raw=true)
 
 ## Features
 
